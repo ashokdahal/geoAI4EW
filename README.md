@@ -1,7 +1,4 @@
-# ashokdahal.github.io
+# https://ashokdahal.github.io/geoAI4EW
 
 
-Features to include
-
-* Google Schloar icon
-* Populate Publication and other relevant pages
+This is a personal website of Ashok Dahal with a focus of his activities on natural hazards and risk reduction using remote sensing, geo-ai, and mathematical modelling. 
